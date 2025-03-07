@@ -5,6 +5,7 @@ Bem-vindo ao repositório do portfólio digital para a disciplina de **Interaç�
 Este repositório foi criado para **documentar**, **organizar** e **partilhar** os conteúdos, materiais e exercícios desenvolvidos ao longo do semestre. O objetivo é facilitar o acompanhamento das aulas e manter um histórico bem estruturado do progresso na disciplina.
 
 ![SO Imagem](./Imagens/IPM.png)
+
 Imagem retirada de:
 > https://pt.linkedin.com/pulse/intera%C3%A7%C3%A3o-homem-m%C3%A1quina-era-em-que-medianos-podem-ser-balestrin-lyymf
 
