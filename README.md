@@ -5,6 +5,7 @@ Bem-vindo ao repositório do portfólio digital para a disciplina de **Interaç�
 Este repositório foi criado para **documentar**, **organizar** e **partilhar** os conteúdos, materiais e exercícios desenvolvidos ao longo do semestre. O objetivo é facilitar o acompanhamento das aulas e manter um histórico bem estruturado do progresso na disciplina.
 
 ![SO Imagem](./Imagens/IPM.png)
+**[Imagem retirada de (https://pt.linkedin.com/pulse/intera%C3%A7%C3%A3o-homem-m%C3%A1quina-era-em-que-medianos-podem-ser-balestrin-lyymf)](https://pt.linkedin.com/pulse/intera%C3%A7%C3%A3o-homem-m%C3%A1quina-era-em-que-medianos-podem-ser-balestrin-lyymf)**
 
 ## Estrutura do Portfólio
 
@@ -23,9 +24,9 @@ Cada pasta no repositório representa uma aula da disciplina, com materiais espe
 
 Este portfólio foi desenvolvido com os seguintes objetivos:
 
-- **Facilitar o Acesso aos Materiais**: Disponibilizar todos os materiais de cada aula num só lugar, com uma estrutura organizada e de fácil navegação.
-- **Documentar o Progresso**: Manter um registo do desenvolvimento das competências ao longo do curso.
-- **Colaboração e Feedback**: Permitir que colegas e professores acedam ao portfólio, promovendo colaboração e feedback para aprimorar a compreensão dos temas.
+✅ **Facilitar o Acesso aos Materiais**: Disponibilizar todos os materiais de cada aula num só lugar, com uma estrutura organizada e de fácil navegação.
+✅ **Documentar o Progresso**: Manter um registo do desenvolvimento das competências ao longo do curso.
+✅ **Colaboração e Feedback**: Permitir que colegas e professores acedam ao portfólio, promovendo colaboração e feedback para aprimorar a compreensão dos temas.
 
 ## Tecnologias e Ferramentas Utilizadas
 
