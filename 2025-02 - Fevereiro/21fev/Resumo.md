@@ -1,4 +1,4 @@
-# Aula 01 - Introdução à Interação Pessoa-Máquina (IPM)
+# 01ª Aula - Introdução à Interação Pessoa-Máquina (IPM)
 
 ## Resumo
 
@@ -23,3 +23,5 @@ Foi também solicitado um **trabalho prático**, no qual cada grupo deve identif
 A primeira aula proporcionou uma visão inicial sobre a importância da Interação Pessoa-Máquina no desenvolvimento de interfaces eficazes e intuitivas. O professor destacou a necessidade de considerar a usabilidade e a experiência do utilizador em qualquer sistema digital. O trabalho prático permitirá aos alunos aplicar esses conceitos na identificação e resolução de problemas do dia a dia.
 
 ---
+
+**Data da aula:** 21/02
