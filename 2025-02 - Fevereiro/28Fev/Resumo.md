@@ -1,4 +1,4 @@
-# Aula 02 - Continuação do Trabalho da Primeira Aula
+# 02ª Aula - Continuação do Trabalho da Primeira Aula
 
 ## Resumo
 
@@ -12,4 +12,7 @@ Durante a aula, os alunos foram orientados a dar seguimento ao **trabalho práti
 ## Conclusão
 
 A segunda aula consolidou o aprendizado dos conceitos de **usabilidade** e experiência do utilizador **(UX)**, preparando os alunos para a aplicação prática desses princípios no contexto de problemas do mundo real e digitais. O trabalho prático continua a ser uma oportunidade para que os alunos desenvolvam suas habilidades na resolução de problemas, aplicando os conhecimentos adquiridos até o momento.
+
 ---
+
+**Data da aula:** 28/02
