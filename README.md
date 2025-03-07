@@ -13,7 +13,7 @@ Imagem retirada de:
 
 Cada pasta no repositório representa uma aula da disciplina, com materiais específicos de cada sessão. Dentro de cada pasta, encontrarás:
 
-- `**README.md**`: Um resumo dos temas abordados e principais tópicos discutidos na aula.
+- **`README.md`**: Um resumo dos temas abordados e principais tópicos discutidos na aula.
 - **Material de Aula**: Arquivos PDF, diapositivos ou anotações que suportam o conteúdo apresentado.
 - **Exercícios e Projetos**: Arquivos relacionados aos exercícios práticos e atividades de cada aula. Os formatos variam de acordo com a necessidade da atividade (código, diagramas, documentos, etc.).
 
