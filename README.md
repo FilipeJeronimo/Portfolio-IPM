@@ -27,7 +27,9 @@ Cada pasta no repositório representa uma aula da disciplina, com materiais espe
 Este portfólio foi desenvolvido com os seguintes objetivos:
 
 ✅ **Facilitar o Acesso aos Materiais**: Disponibilizar todos os materiais de cada aula num só lugar, com uma estrutura organizada e de fácil navegação.
+
 ✅ **Documentar o Progresso**: Manter um registo do desenvolvimento das competências ao longo do curso.
+
 ✅ **Colaboração e Feedback**: Permitir que colegas e professores acedam ao portfólio, promovendo colaboração e feedback para aprimorar a compreensão dos temas.
 
 ## Tecnologias e Ferramentas Utilizadas
