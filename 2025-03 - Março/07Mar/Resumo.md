@@ -1,4 +1,4 @@
-# 3ª Aula – Interação Pessoa Máquina (IPM)
+# 03ª Aula – Interação Pessoa Máquina (IPM)
 
 ## Resumo
 Os colegas apresentaram o trabalho realizado na última aula, mas eu fiquei sem apresentar devido à ausência do meu colega.
