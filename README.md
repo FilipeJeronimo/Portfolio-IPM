@@ -14,8 +14,8 @@ Imagem retirada de:
 Cada pasta no repositório representa uma aula da disciplina, com materiais específicos de cada sessão. Dentro de cada pasta, encontrarás:
 
 - **`README.md`**: Um resumo dos temas abordados e principais tópicos discutidos na aula.
-- **Material de Aula**: Arquivos PDF, diapositivos ou anotações que suportam o conteúdo apresentado.
-- **Exercícios e Projetos**: Arquivos relacionados aos exercícios práticos e atividades de cada aula. Os formatos variam de acordo com a necessidade da atividade (código, diagramas, documentos, etc.).
+- **Material de Aula**: Ficheiros PDF, diapositivos ou anotações que suportam o conteúdo apresentado.
+- **Exercícios e Projetos**: Ficheiros relacionados aos exercícios práticos e atividades de cada aula. Os formatos variam de acordo com a necessidade da atividade (código, diagramas, documentos, etc.).
 
 ## Aulas
 - **[Aula01/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-02%20-%20Fevereiro/21fev)**: ...
@@ -38,8 +38,8 @@ Este portfólio foi desenvolvido com os seguintes objetivos:
 
 Para a construção e manutenção deste portfólio, utilizamos:
 
-- **Git e GitHub**: Para controlo de versão e armazenamento dos arquivos de forma segura e organizada.
-- **GitHub Desktop**: Facilita o controlo de versão e o envio dos arquivos do portfólio.
+- **Git e GitHub**: Para controlo de versão e armazenamento dos Ficheiros de forma segura e organizada.
+- **GitHub Desktop**: Facilita o controlo de versão e o envio dos ficheiros do portfólio.
 - **Ferramentas de Edição de Texto e PDF**: Microsoft Word, Google Docs e editores de PDF para criação e edição de documentos.
 
 ## Sobre a Disciplina
