@@ -1,4 +1,4 @@
-# 01ª Aula - Introdução à Interação Pessoa-Máquina (IPM)
+# 1ª Aula - Introdução à Interação Pessoa-Máquina (IPM)
 
 ## Resumo
 
