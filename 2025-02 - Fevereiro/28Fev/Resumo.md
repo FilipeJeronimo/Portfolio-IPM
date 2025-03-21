@@ -1,4 +1,4 @@
-# 2ª Aula - Continuação do Trabalho da Primeira Aula
+# 02ª Aula - Continuação do Trabalho da Primeira Aula
 
 ## Resumo
 
