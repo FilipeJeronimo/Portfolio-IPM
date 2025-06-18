@@ -1,0 +1,193 @@
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d > #backgroundBox {
+  background-color: #172F58;
+  position: absolute;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d > #alignmentBox {
+  position: relative;
+  max-width: 360.0px;
+  max-height: 640.0px;
+  width: 100%;
+  height: 100%;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Text_1 {
+  position: absolute;
+  width: 159.96874999999997px;
+  min-height: 55.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Text_1 > .backgroundLayer > .colorLayer {
+  background-color: #172F58;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Text_1 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Text_1 .valign {
+  vertical-align: top;
+  text-align: left;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Text_1 span {
+  color: #FAF2E7;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 36.0pt;
+  font-weight: 400;
+  text-transform: none;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Text_1 span#rtr-s-Text_1_0 {
+  color: #FAF2E7;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 36.0pt;
+  font-weight: 400;
+  text-transform: none;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_1 {
+  position: absolute;
+  width: 148.0px;
+  min-height: 43.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_1 > .backgroundLayer {
+  border-top-left-radius: 20.0px;
+  border-top-right-radius: 20.0px;
+  border-bottom-right-radius: 20.0px;
+  border-bottom-left-radius: 20.0px;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_1 > .backgroundLayer > .colorLayer {
+  background-color: #2C5494;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_1 > .borderLayer {
+  border-top-left-radius: 20.0px;
+  border-top-right-radius: 20.0px;
+  border-bottom-right-radius: 20.0px;
+  border-bottom-left-radius: 20.0px;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_1 > .backgroundLayer {
+  border-top-left-radius: 20.0px;
+  border-top-right-radius: 20.0px;
+  border-bottom-right-radius: 20.0px;
+  border-bottom-left-radius: 20.0px;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_1 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_1 span {
+  color: #FAF2E7;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 18.0pt;
+  font-weight: 400;
+  text-transform: none;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_1 span#rtr-s-Button_1_0 {
+  color: #FAF2E7;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 18.0pt;
+  font-weight: 400;
+  text-transform: none;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_2 {
+  position: absolute;
+  width: 148.0px;
+  min-height: 54.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_2 > .backgroundLayer {
+  border-top-left-radius: 20.0px;
+  border-top-right-radius: 20.0px;
+  border-bottom-right-radius: 20.0px;
+  border-bottom-left-radius: 20.0px;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_2 > .backgroundLayer > .colorLayer {
+  background-color: #2C5494;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_2 > .borderLayer {
+  border-top-left-radius: 20.0px;
+  border-top-right-radius: 20.0px;
+  border-bottom-right-radius: 20.0px;
+  border-bottom-left-radius: 20.0px;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_2 > .backgroundLayer {
+  border-top-left-radius: 20.0px;
+  border-top-right-radius: 20.0px;
+  border-bottom-right-radius: 20.0px;
+  border-bottom-left-radius: 20.0px;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_2 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_2 span {
+  color: #FAF2E7;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 18.0pt;
+  font-weight: 400;
+  text-transform: none;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d #s-Button_2 span#rtr-s-Button_2_0 {
+  color: #FAF2E7;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 18.0pt;
+  font-weight: 400;
+  text-transform: none;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-31cfdeb0-9481-4c99-ad10-15f33496b77d > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
