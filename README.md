@@ -29,10 +29,10 @@ Cada pasta no repositório representa uma aula da disciplina, com materiais espe
 - **[Aula09/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%20Maio/09Mai)**
 - **[Aula10/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%20Maio/16Mai)**
 - **[Aula11/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%20Maio/23Mai)**
-- **[Aula12/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%Junho/03Jun)**
-- **[Aula13/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%Junho/13Jun)**
-- **[Aula14/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%Junho/17Jun)**
-- **[Aula15/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%Junho/18Jun)**
+- **[Aula12/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-06%20-%Junho/03Jun)**
+- **[Aula13/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-06%20-%Junho/13Jun)**
+- **[Aula14/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-06%20-%Junho/17Jun)**
+- **[Aula15/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-06%20-%Junho/18Jun)**
 
 ## Objetivos do Portfólio
 
