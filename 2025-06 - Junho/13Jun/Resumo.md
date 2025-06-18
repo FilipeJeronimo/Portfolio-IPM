@@ -1,33 +1,26 @@
-# 12ª Aula – Exercícios Práticos e Introdução à Programação em C no Ambiente Unix
+# 13ª Aula – Desenvolvimento do Projeto Final e Técnicas de Avaliação
 
 ## Resumo
 
 ---
 
-Nesta aula deram-se continuidade aos **exercícios práticos** como forma de consolidar os conhecimentos teóricos abordados nas sessões anteriores. Foram também introduzidos novos conteúdos relacionados com a **programação em C no ambiente Unix**.
+Nesta aula deu-se início ao **desenvolvimento do Projeto Final**, que tem como objetivo integrar e aplicar os conhecimentos adquiridos ao longo da disciplina.
 
-As principais atividades e tópicos abordados foram:
+Além disso, foram aprofundadas as **técnicas de avaliação** essenciais para garantir a qualidade e usabilidade das aplicações desenvolvidas, incluindo:
 
-- **Revisão geral dos conteúdos anteriores**, com especial foco em:
-  - Programação em **Bash Script** e a sua aplicação na **automação de tarefas**.
-  - Conceitos fundamentais de **escalonamento de processos** e **gestão do processador**.
-  - Análise e comparação entre diferentes **algoritmos de escalonamento**.
+- **Análise de tarefas**:
+  - Identificação e decomposição das tarefas do utilizador para entender necessidades e contextos.
+- **Avaliação heurística**:
+  - Aplicação sistemática de heurísticas reconhecidas para detetar problemas de usabilidade.
+- **Avaliação com utilizadores**:
+  - Realização de testes práticos com utilizadores reais para recolha de feedback e identificação de melhorias.
 
-- **Exercícios práticos**:
-  - Escrita e execução de scripts Bash para simular tarefas administrativas e interações com o sistema.
-  - Testes e simulações com algoritmos de escalonamento para observar o comportamento do sistema.
-
-- **Introdução à programação em C no ambiente Unix**:
-  - Criação de programas simples em C com interação direta com o sistema operativo.
-  - **Gestão de processos**: utilização de `fork()`, `exec()`, e `wait()`.
-  - **Manipulação de sinais**: envio e tratamento de sinais (`signal`, `kill`, `sigaction`).
-  - **Acesso a ficheiros**: leitura, escrita e abertura de ficheiros com chamadas ao sistema (`open`, `read`, `write`, `close`).
-  - **Redireccionamento de entrada/saída** em programas C (uso de `dup2`, etc.).
+A aula contou com atividades práticas para que os alunos pudessem aplicar as técnicas de avaliação nas suas propostas para o projeto final.
 
 ## Conclusão
 
 ---
 
-A aula representou um ponto de transição entre o trabalho com scripting em Bash e a programação mais próxima do sistema através da linguagem C. A introdução da programação em C no contexto Unix abre novas possibilidades para o controlo e automação a um nível mais baixo, essencial para compreender profundamente o funcionamento dos sistemas Unix/Linux.
+O início do projeto final permitiu consolidar a aprendizagem prática e desenvolver competências essenciais de planeamento e avaliação em design de sistemas interativos. A utilização das técnicas de avaliação mostrou-se fundamental para garantir a eficácia e adequação das soluções propostas.
 
 **Data da aula:** 13/06

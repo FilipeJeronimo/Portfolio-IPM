@@ -1,39 +1,24 @@
-# 13ª Aula – Programação em C no Ambiente Unix e Início do Projeto Final
+# 14ª Aula – Desenvolvimento do Projeto Final e Revisão dos Conteúdos
 
 ## Resumo
 
 ---
 
-Nesta aula foram aprofundados os conhecimentos de **programação em C no ambiente Unix**, focando-se na interação com o sistema operativo a um nível mais baixo. Para além disso, foi dado início ao **desenvolvimento do Projeto Final**, integrando os conteúdos lecionados ao longo do semestre.
+Nesta aula continuou-se o **desenvolvimento do Projeto Final**, permitindo aos alunos aplicar de forma integrada os conhecimentos adquiridos ao longo da disciplina.
 
-Os tópicos abordados incluíram:
+Adicionalmente, procedeu-se a uma **revisão abrangente dos conteúdos lecionados até ao momento**, incluindo:
 
-- **Gestão de processos em C**:
-  - Criação de processos com `fork()`.
-  - Execução de novos programas com `exec()`.
-  - Espera pela finalização de processos com `wait()` e `waitpid()`.
+- Princípios de usabilidade e acessibilidade.
+- Elementos de design em HCI.
+- Guidelines para o desenvolvimento de aplicações interativas.
+- Técnicas de avaliação: análise de tarefas, avaliação heurística e avaliação com utilizadores.
 
-- **Trabalho com sinais**:
-  - Definição de handlers com `signal()` e `sigaction()`.
-  - Envio de sinais com `kill()` e tratamento de sinais como `SIGINT`, `SIGTERM`, etc.
-
-- **Manipulação de ficheiros**:
-  - Abertura e fecho de ficheiros (`open()`, `close()`).
-  - Leitura e escrita (`read()`, `write()`).
-  - Criação de ficheiros e permissões.
-
-- **Redireccionamento de entrada/saída**:
-  - Utilização de `dup()`, `dup2()` para redirecionar `stdin`, `stdout` e `stderr`.
-
-- **Projeto Final**:
-  - Apresentação dos requisitos e objetivos do projeto.
-  - Início do planeamento e organização do trabalho a realizar.
-  - Aplicação prática dos conhecimentos adquiridos em Bash, gestão de processos e programação em C.
+Durante a sessão, os alunos participaram em atividades práticas e discussões que consolidaram o entendimento dos conceitos-chave, preparando-os para a finalização e apresentação do projeto.
 
 ## Conclusão
 
 ---
 
-A aula permitiu aprofundar competências técnicas fundamentais na programação em C orientada ao ambiente Unix/Linux, destacando-se a importância do controlo direto sobre os processos, sinais e ficheiros. O arranque do Projeto Final representa uma oportunidade para integrar e aplicar de forma autónoma os conhecimentos desenvolvidos ao longo do curso.
+A revisão integrada dos conteúdos contribuiu para reforçar os conhecimentos e esclarecer dúvidas, enquanto o desenvolvimento do projeto final proporcionou uma oportunidade para aplicar teoria à prática, fortalecendo as competências na área da Interação Pessoa-Máquina.
 
 **Data da aula:** 17/06

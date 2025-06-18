@@ -1,34 +1,24 @@
-# 10ª Aula – Introdução à Programação em Bash Script e Conceitos de Escalonamento
+# 10ª Aula – Acessibilidade no Desenvolvimento de Aplicações
 
 ## Resumo
 
 ---
 
-Nesta aula foi realizada uma revisão geral dos conteúdos abordados até ao momento, seguida da introdução de novos tópicos relacionados com a programação em Bash Script e a gestão do processador em sistemas Unix/Linux.
+Nesta aula aprofundou-se o tema da **acessibilidade no desenvolvimento de aplicações**, destacando a importância de criar interfaces que sejam utilizáveis por todos, independentemente das suas capacidades físicas ou cognitivas.
 
-Foram explorados os seguintes conteúdos:
+Foram abordados os seguintes pontos:
 
-- Revisão dos temas anteriores: sistemas de ficheiros, permissões, comandos essenciais e gestão de utilizadores.
-- Introdução à programação em **Bash Script**:
-  - Criação e execução de scripts.
-  - Sintaxe básica: variáveis, estruturas condicionais (`if`, `case`) e ciclos (`for`, `while`).
-  - Utilização de comandos internos e externos em scripts.
-- **Automação de tarefas**:
-  - Vantagens da automação no contexto de administração de sistemas.
-  - Exemplos práticos de scripts para automatizar tarefas do dia a dia (ex: cópias de segurança, monitorização de processos).
-- **Escalonamento de processos**:
-  - Conceito de escalonamento e sua importância para a gestão eficiente do processador.
-  - Introdução à **gestão do processador** em sistemas multitarefa.
-  - Estudo dos principais **algoritmos de escalonamento**, com destaque para:
-    - FCFS (First-Come, First-Served)
-    - SJF (Shortest Job First)
-    - Round Robin
-    - Prioridades
+- Princípios e normas de acessibilidade em interfaces digitais.
+- Técnicas para adaptar conteúdos e interações a diferentes necessidades especiais.
+- Avaliação da acessibilidade em aplicações existentes.
+- Análise de casos práticos e estudo de ferramentas que facilitam o desenvolvimento acessível.
+
+A sessão incluiu a realização de **tarefas práticas** para que os alunos pudessem aplicar e consolidar os conhecimentos, promovendo a reflexão crítica sobre os desafios e soluções no design acessível.
 
 ## Conclusão
 
 ---
 
-A aula permitiu consolidar os conhecimentos anteriores e deu início a uma nova etapa centrada na programação e automação em Bash, bem como na compreensão da forma como o sistema operativo gere os recursos do processador. Estes conceitos são fundamentais para compreender o funcionamento interno dos sistemas operativos e para desenvolver competências práticas em scripting e administração de sistemas Unix/Linux.
+A aula reforçou a responsabilidade dos designers e programadores em garantir que as aplicações são inclusivas, proporcionando uma experiência positiva a todos os utilizadores. A prática contribuiu para aumentar a sensibilização e desenvolver competências para implementar acessibilidade eficaz em projetos futuros.
 
 **Data da aula:** 16/05
