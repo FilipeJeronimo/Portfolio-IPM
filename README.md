@@ -18,13 +18,21 @@ Cada pasta no repositório representa uma aula da disciplina, com materiais espe
 - **Exercícios e Projetos**: Ficheiros relacionados aos exercícios práticos e atividades de cada aula. Os formatos variam de acordo com a necessidade da atividade (código, diagramas, documentos, etc.).
 
 ## Aulas
-- **[Aula01/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-02%20-%20Fevereiro/21fev)**: ...
-- **[Aula02/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-02%20-%20Fevereiro/28fev)**: ...
-- **[Aula03/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-03%20-%20Março/07Mar)**: ...
-- **[Aula04/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-03%20-%20Mar%C3%A7o/14Mar)**: ...
-- **[Aula05/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-03%20-%20Mar%C3%A7o/21Mar)**: ...
-- **[Aula06/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-03%20-%20Mar%C3%A7o/28Mar)**: ...
-<!-- - **[Aula07/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-04%20-%20Abril/04Abr)**: ... -->
+- **[Aula01/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-02%20-%20Fevereiro/21fev)**
+- **[Aula02/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-02%20-%20Fevereiro/28fev)**
+- **[Aula03/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-03%20-%20Março/07Mar)**
+- **[Aula04/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-03%20-%20Mar%C3%A7o/14Mar)**
+- **[Aula05/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-03%20-%20Mar%C3%A7o/21Mar)**
+- **[Aula06/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-03%20-%20Mar%C3%A7o/28Mar)**
+- **[Aula07/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-04%20-%20Abril/04Abr)**
+- **[Aula08/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%20Maio/02Mai)**
+- **[Aula09/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%20Maio/09Mai)**
+- **[Aula10/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%20Maio/16Mai)**
+- **[Aula11/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%20Maio/23Mai)**
+- **[Aula12/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%Junho/03Jun)**
+- **[Aula13/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%Junho/13Jun)**
+- **[Aula14/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%Junho/17Jun)**
+- **[Aula15/](https://github.com/FilipeJeronimo/Portfolio-IPM/tree/main/2025-05%20-%Junho/18Jun)**
 
 ## Objetivos do Portfólio
 
